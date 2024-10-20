@@ -1,8 +1,8 @@
 # Hi there, I'm Pranay Pohokar 👋
 
-![Profile views](https://gpvc.arturio.dev/pranay-pohokar) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Pohokar-blue?logo=linkedin)]([https://www.linkedin.com/in/pranay-pohokar/](https://www.linkedin.com/in/pranay-pohokar-067937212/))
-[![GitHub followers](https://img.shields.io/github/followers/pranay-pohokar?label=Follow&style=social)]([https://github.com/pranay-pohokar](https://github.com/devloperpranav))
+![Profile views](https://gpvc.arturio.dev/devloperpranav) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Pohokar-blue?logo=linkedin)](https://www.linkedin.com/in/pranay-pohokar-067937212/)
+[![GitHub followers](https://img.shields.io/github/followers/devloperpranav?label=Follow&style=social)](https://github.com/devloperpranav)
 
 ## About Me
 I am a **final-year Information Technology student** at **Sant Gadge Baba Amravati University**, set to graduate in **2025**. I’m passionate about solving real-world problems through technology and have a strong interest in **software development**, **machine learning**, and **web development**.
@@ -47,11 +47,11 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranay-pohokar&show_icons=true&theme=radical" alt="Pranay's GitHub stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-pohokar&theme=radical" alt="Pranay's GitHub streak">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devloperpranav&show_icons=true&theme=radical" alt="Pranay's GitHub stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devloperpranav&theme=radical" alt="Pranay's GitHub streak">
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-pohokar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperpranav&layout=compact&theme=radical)
 
 ---
 
