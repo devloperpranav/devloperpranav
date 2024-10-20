@@ -53,6 +53,16 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperpranav&layout=compact&theme=radical)
 
+### LeetCode Stats:
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/PranayPohokar?theme=dark&font=Abel&ext=heatmap" alt="Pranay's LeetCode stats">
+</p>
+
+### GeeksforGeeks Stats:
+<p align="center">
+  <img width="48%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?username=pranav_6707" alt="Pranay's GeeksforGeeks stats">
+</p>
+
 ---
 
 
