@@ -76,10 +76,10 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 ---
 
 ## 💬 Let’s Connect!
-I’m always open to discussions, collaborations, or just a friendly chat! Feel free to reach out to me on:
+I’m always open to discussions, collaborations! Feel free to reach out to me on:
 
-- 📧 Email: pranay.pohokar@example.com
+- 📧 Email: pohokarpranay@gmail.com
 - 💼 [LinkedIn]([https://www.linkedin.com/in/pranay-pohokar/](https://www.linkedin.com/in/pranay-pohokar-067937212/))
-- 🖥️ [GitHub](https://github.com/pranay-pohokar)
+- 🖥️ [GitHub]([https://github.com/pranay-pohokar](https://github.com/devloperpranav))
 
 Thanks for visiting my profile! 😊
