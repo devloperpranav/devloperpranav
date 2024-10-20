@@ -55,12 +55,7 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 
 ### LeetCode Stats:
 <p align="center">
-  <img width="48%" src="https://leetcard.jacoblin.cool/PranayPohokar?theme=dark&font=Abel&ext=heatmap" alt="Pranay's LeetCode stats">
-</p>
-
-### GeeksforGeeks Stats:
-<p align="center">
-  <img width="48%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?username=pranav_6707" alt="Pranay's GeeksforGeeks stats">
+  <img src="https://leetcard.jacoblin.cool/PranayPohokar?theme=dark&font=Abel&ext=heatmap&border=2&radius=20&animation=true&site=leetcode" alt="Pranay's LeetCode stats" style="border-radius: 15px;">
 </p>
 
 ---
@@ -79,7 +74,6 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 I’m always open to discussions, collaborations! Feel free to reach out to me on:
 
 - 📧 Email: pohokarpranay@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/pranay-pohokar/](https://www.linkedin.com/in/pranay-pohokar-067937212/))
-- 🖥️ [GitHub]([https://github.com/pranay-pohokar](https://github.com/devloperpranav))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranay-pohokar-067937212/)
 
 Thanks for visiting my profile! 😊
