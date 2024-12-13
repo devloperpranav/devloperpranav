@@ -67,8 +67,16 @@ I am a **final-year Information Technology student** set to graduate in **2025**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/PranayPohokar?theme=dark&font=Abel&ext=heatmap&border=2&radius=20&animation=true&site=leetcode" alt="Pranay's LeetCode stats" style="border-radius: 15px;">
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db13497e-939e-4685-bf3f-0920eb4c8eee" width="130"/>  
+  <img src="https://github.com/user-attachments/assets/4bf2bab6-14a0-434c-ab55-3b1f3a182774" width="130"/> 
+  <img src="https://github.com/user-attachments/assets/b148ea36-a2a0-4d3c-9717-8221abdf93b2" width="130"/>
+</p>
 
 ---
+
+
+
 
 
 ## 🏆 Achievements & Certifications
