@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/devloperpranav?label=Follow&style=social)](https://github.com/devloperpranav)
 
 ## About Me
-I am a **final-year Information Technology student** at **Sant Gadge Baba Amravati University**, set to graduate in **2025**. I’m passionate about solving real-world problems through technology and have a strong interest in **software development**, **machine learning**, and **web development**.
+I am a **final-year Information Technology student** set to graduate in **2025**. I’m passionate about solving real-world problems through technology and have a strong interest in **software development**, **machine learning**, and **web development**.
 
 
 - 🔭 I’m continuously learning and improving my skills in **ReactJS**, **Node.js**, and **Backend Development**.
