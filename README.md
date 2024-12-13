@@ -1,6 +1,6 @@
 # Hi there, I'm Pranay Pohokar 👋
 
-![Profile views](https://gpvc.arturio.dev/devloperpranav) 
+![Profile views](https://komarev.com/ghpvc/?username=devloperpranav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Pohokar-blue?logo=linkedin)](https://www.linkedin.com/in/pranay-pohokar-067937212/)
 [![GitHub followers](https://img.shields.io/github/followers/devloperpranav?label=Follow&style=social)](https://github.com/devloperpranav)
 
