@@ -81,7 +81,7 @@ I am a **final-year Information Technology student** set to graduate in **2025**
 
 ## 🏆 Achievements & Certifications
 - **Salesforce Developer Virtual Internship** (July-August 2024)
-  - Earned **Super Badges**: Apex Specialist, Process Automation Specialist, Developer Super Set
+- Earned **Super Badges**: Apex Specialist, Process Automation Specialist, Developer Super Set
 - **GeeksforGeeks**: 350+ day problem-solving streak
 - **LeetCode**: 400-day problem-solving streak
 - **Certification in Google Cloud Fundamentals**
