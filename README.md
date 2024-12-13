@@ -49,10 +49,9 @@ I am a **final-year Information Technology student** at **Sant Gadge Baba Amrava
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devloperpranav&show_icons=true&theme=radical" alt="Pranay's GitHub stats">
 </p>
-
-<p align="center">
+<div align="center">
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperpranav&layout=compact&theme=radical)
-</p>
+</div>
 
 ### LeetCode Stats:
 <p align="center">
